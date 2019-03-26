@@ -1,0 +1,5 @@
+print("Enter a number:")
+num1=int (raw_input())
+print("Enter second number:")
+num2=int (raw_input())
+print("The multiplication is:" + str(num1*num2))
